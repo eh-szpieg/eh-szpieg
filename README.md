@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+<img src="https://media.tenor.com/kMpnTs0mLGIAAAAd/henry-vacuum.gif" width=300px>
+</p>
 
 <!--
 **eh-szpieg/eh-szpieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
